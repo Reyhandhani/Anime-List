@@ -14,9 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
-});
-
-Route::get('/anime', function () {
-    return view('anime'); // akan mencari resources/views/anime.blade.php
+    return view('anime');
 });
