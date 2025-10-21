@@ -42,7 +42,7 @@
   <body>
     <nav class="navbar navbar-dark bg-dark">
       <div class="container">
-        <a class="navbar-brand" href="/anime">Anime Catalog</a>
+        <a class="navbar-brand" href="/">Anime Catalog</a>
       </div>
     </nav>
 
